@@ -1,0 +1,28 @@
+name: Mulia Legacy
+favicon: null
+layout_spectrum: 0.9314876617863774
+typography_spectrum: 0.5818331346381456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7031948158983141
+  lightness: 0.6042937384918332
+  saturation: 0.3359831452835351
+  rhythmicContrast: 0.6696162633597851
+purpose: []
