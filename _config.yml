@@ -1,29 +1,40 @@
-name: Mulia Legacy
 favicon: null
-layout_spectrum: 0.9314876617863774
-typography_spectrum: 0.5818331346381456
-title: Luxury Watches
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Mulia Legacy
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1774193
+  brandStrength: 0.7031948158983141
+  lightness: 0.2419355
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.7031948158983141
-  lightness: 0.6042937384918332
-  saturation: 0.3359831452835351
-  rhythmicContrast: 0.6696162633597851
-purpose: []
+  rhythmicContrast: 0.4910394
+typography_spectrum: 0.5818331346381456
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9314876617863774
+analytics:
+  twitter: null
+  google: null
+  facebook: null
