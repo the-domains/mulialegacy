@@ -1,4 +1,4 @@
-layout_spectrum: 0.6917562
+name: Mulia Legacy
 opengraph:
   image: null
   type: null
@@ -9,23 +9,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.7939068
-  brandStrength: 0.7031948158983141
+  brandStrength: 1
   lightness: 1
   brandColors:
-    - '#1E1D1B'
-    - '#FFFFFF'
-    - '#7A7B73'
-    - '#C1B9AC'
-    - '#BC5364'
+    - '#C6C7C1'
+    - '#0F1014'
+    - '#FFFFFD'
+    - '#979A93'
+    - '#D2741C'
   rhythmicContrast: 0.4964158
 typography_spectrum: 0.7867383
 cta:
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: Mulia Legacy
+layout_spectrum: 0.6917562
