@@ -1,4 +1,5 @@
-name: Mulia Legacy
+favicon: null
+layout_spectrum: 0.3763441
 opengraph:
   image: null
   type: null
@@ -17,7 +18,7 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.7939068
+  saturation: 1
   brandStrength: 1
   lightness: 1
   brandColors:
@@ -26,8 +27,8 @@ color:
     - '#FFFFFD'
     - '#979A93'
     - '#D2741C'
-  rhythmicContrast: 0.4964158
-typography_spectrum: 0.7867383
+  rhythmicContrast: 1
+typography_spectrum: 0.4265233
 cta:
   bucket: null
   version: null
@@ -36,5 +37,4 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 0.6917562
+name: Mulia Legacy
